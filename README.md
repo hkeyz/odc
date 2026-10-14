@@ -1,5 +1,7 @@
 # ODC — Python, Data Science & Machine Learning
 
+**Français** | [English](README.en.md)
+
 Des premiers exercices Python à la classification d’images : ce dépôt rassemble mes travaux pratiques, mes supports de veille et mes projets de fin de formation ODC.
 
 Il présente mon parcours à travers la manipulation de données, la visualisation, l’apprentissage supervisé et le clustering, sous forme de scripts Python et de notebooks Jupyter.
@@ -46,7 +48,8 @@ odc/
 │   ├── train.csv
 │   ├── test.csv
 │   └── ...                     # Fichiers de prédictions et de soumission
-└── README.md
+├── README.md                   # Version française
+└── README.en.md                # English version
 ```
 
 ## Prise en main
